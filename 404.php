@@ -9,7 +9,6 @@
 
 get_header();
 ?>
-Bu ne al
 	<main id="primary" class="site-main">
 
 		<section class="error-404 not-found">
