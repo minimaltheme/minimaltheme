@@ -23,6 +23,23 @@ get_header();
 				</h1>
 			</header><!-- .page-header -->
 
+			<div class="search-result-count default-max-width">
+				<?php
+				printf(
+					esc_html(
+						/* translators: %d: The number of search results. */
+						_n(
+							'We found %d result for your search.',
+							'We found %d results for your search.',
+							(int) $wp_query->found_posts,
+							'minimaltheme'
+						)
+					),
+					(int) $wp_query->found_posts
+				);
+				?>
+			</div><!-- .search-result-count -->
+
 			<?php
 			/* Start the Loop */
 			while ( have_posts() ) :
