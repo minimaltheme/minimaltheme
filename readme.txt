@@ -1,6 +1,6 @@
-=== Minimal Theme ===
+=== minimaltheme ===
 
-Contributors: automattic
+Contributors: minimaltheme
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
@@ -14,7 +14,11 @@ A starter theme called Minimal Theme.
 
 == Description ==
 
-Minimal Theme is a Minimalist Theme for Wordpress Bloggers
+Mininal Theme offers you a minimalist, modern and clean design. 
+
+Sometimes it takes more time and energy to choose a theme, to adjust a lot of settings, to deal with plugins than to create content. 
+Focus on your content, we make the theme!
+
 
 == Installation ==
 
@@ -26,14 +30,9 @@ Minimal Theme is a Minimalist Theme for Wordpress Bloggers
 
 = Does this theme support any plugins? =
 
-Minimal Theme includes support for WooCommerce and for Infinite Scroll in Jetpack.
+Minimal Theme includes support for Gutenberg and Infinite Scroll in Jetpack.
 
 == Changelog ==
 
 = 1.0 - May 12 2015 =
 * Initial release
-
-== Credits ==
-
-* Based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2018 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
