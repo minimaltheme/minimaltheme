@@ -1,8 +1,8 @@
 <?php
 /**
- * Minimal Theme Theme Customizer
+ * Minimaltheme Theme Customizer
  *
- * @package Minimal_Theme
+ * @package Minimaltheme
  */
 
 /**

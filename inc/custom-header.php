@@ -7,7 +7,7 @@
  *
  * @link https://developer.wordpress.org/themes/functionality/custom-headers/
  *
- * @package Minimal_Theme
+ * @package Minimaltheme
  */
 
 /**

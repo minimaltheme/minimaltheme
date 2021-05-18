@@ -4,7 +4,7 @@
  *
  * @link https://jetpack.com/
  *
- * @package Minimal_Theme
+ * @package Minimaltheme
  */
 
 /**

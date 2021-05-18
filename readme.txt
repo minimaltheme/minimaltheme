@@ -1,4 +1,4 @@
-=== minimaltheme ===
+=== Minimaltheme ===
 
 Contributors: minimaltheme
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
@@ -10,14 +10,14 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called Minimal Theme.
+A starter theme called Minimaltheme.
 
 == Description ==
 
-Mininal Theme offers you a minimalist, modern and clean design. 
+Mininaltheme offers you a minimalist wordpress theme with modern and clean design. 
 
 Sometimes it takes more time and energy to choose a theme, to adjust a lot of settings, to deal with plugins than to create content. 
-Focus on your content, we make the theme!
+Focus on your content, we make your minimal theme!
 
 
 == Installation ==
@@ -30,7 +30,7 @@ Focus on your content, we make the theme!
 
 = Does this theme support any plugins? =
 
-Minimal Theme includes support for Gutenberg and Infinite Scroll in Jetpack.
+Minimaltheme includes support for Gutenberg and Infinite Scroll in Jetpack.
 
 == Changelog ==
 

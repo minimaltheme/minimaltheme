@@ -1,9 +1,10 @@
-/*!
-Theme Name: minimaltheme
-Theme URI: https://minimaltheme.org/themes/minimaltheme
-Author: Vedat Yıldırım
+@charset "UTF-8";
+/*
+Theme Name: Minimaltheme
+Theme URI: https://wordpress.org/themes/minimaltheme/
+Author: the Minimaltheme team.
 Author URI: http://minimaltheme.org
-Description: Mininal Theme offers you a minimalist, modern and clean design. Sometimes it takes more time and energy to choose a theme, to adjust a lot of settings, to deal with plugins than to create content. Focus on your content, we make the theme!
+Description: Mininaltheme offers you a minimalist wordpress theme with modern and clean design. Sometimes it takes more time and energy to choose a theme, to adjust a lot of settings, to deal with plugins than to create content. Focus on your content, we make your minimal theme!
 Version: 1.0.0
 Tested up to: 5.4
 Requires PHP: 5.6
@@ -11,6 +12,9 @@ License: GNU General Public License v2 or later
 License URI: LICENSE
 Text Domain: minimaltheme
 Tags: one-column, custom-logo, editor-style, featured-images, footer-widgets, wide-blocks
+
+Minimaltheme, (C) 2020 Minimaltheme.org
+Minimaltheme is distributed under the terms of the GNU GPL.
 */
 
 /*--------------------------------------------------------------

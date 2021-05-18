@@ -1,10 +1,10 @@
 <?php
 /**
- * Minimal Theme functions and definitions
+ * Minimaltheme functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Minimal_Theme
+ * @package Minimaltheme
  */
 
 // This theme requires WordPress 5.3 or later.
@@ -29,7 +29,7 @@ if ( ! function_exists( 'minimaltheme_setup' ) ) :
 		/*
 		 * Make theme available for translation.
 		 * Translations can be filed in the /languages/ directory.
-		 * If you're building a theme based on Minimal Theme, use a find and replace
+		 * If you're building a theme based on Minimaltheme, use a find and replace
 		 * to change 'minimaltheme' to the name of your theme in all the template files.
 		 */
 		load_theme_textdomain( 'minimaltheme', get_template_directory() . '/languages' );
